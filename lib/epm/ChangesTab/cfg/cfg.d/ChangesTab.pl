@@ -1,0 +1,1 @@
+$c->{plugins}{"Screen::ChangesTab"}{params}{disable} = 0;
