@@ -5,6 +5,12 @@ A description of this plugin proposal was presented at Open Repositories 2013: h
 
 Once installed, the plugin adds a button "Revision History Summary View" for Editors, under "Actions" tab.
 
+The Bazaar plugin for this is the following: https://bazaar.eprints.org/571/
+
+## Dependencies
+
+The plugin uses the XML::SemanticDiff perl module.
+
 # About and Contact
 
 The Revision History Summary View was developed at Concordia University Library by Bin Han, Tomasz Neugebauer and Francisco Berrizbeitia. 
