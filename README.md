@@ -9,7 +9,7 @@ Once installed, the plugin adds a button "Revision History Summary View" for Edi
 
 The Revision History Summary View was developed at Concordia University Library by Bin Han, Tomasz Neugebauer and Francisco Berrizbeitia. 
 
-We strongly encourage you to please report any issues you have with Revision History Summary View Plugin. You can do that over our contact email or creating a new issue here on Github.
+We strongly encourage you to report any issues you have with the Revision History Summary View Plugin. You can do that over email or by creating a new issue here on Github.
 
 You can contact the current maintainers by email at:
 
