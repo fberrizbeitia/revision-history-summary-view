@@ -11,6 +11,8 @@ The Bazaar plugin for this is the following: https://bazaar.eprints.org/571/
 
 The plugin uses the XML::SemanticDiff perl module.
 
+## This version is tested on EPrints 3.3.12
+
 # About and Contact
 
 The Revision History Summary View was developed at Concordia University Library by Bin Han, Tomasz Neugebauer and Francisco Berrizbeitia. 
